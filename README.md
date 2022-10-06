@@ -29,7 +29,7 @@ I am a budding Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 📫 Connect with me: 
   - Linkedin [![Linkedin Badge](https://img.shields.io/badge/-oluwatobi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatobi-n-a8145a79/)
   - Email oluwatobindom@gmail.com
-- ⚡ Fun fact:  I'm a big fan of crime detective movies and novels, I enjoy traveling and reading, although the majority of the year, you will find me behind a computer screen.
+- ⚡ Fun fact:  I'm a big fan of crime detective movies and novels, I enjoy traveling, music and dancing, although the majority of the year, you will find me behind a book.
 
 
 ---
