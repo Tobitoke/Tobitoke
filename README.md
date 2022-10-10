@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500"/>
 </div>
 
@@ -9,7 +9,7 @@
 </h1>
 
 
-<div id="badges" align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/oluwatobi-n-a8145a79/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
