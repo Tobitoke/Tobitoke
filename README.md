@@ -19,7 +19,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a budding Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria
+I am a budding Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for turning data into valuable and actionable insights.
 
 - 🔭 I’m currently deepening my expertise in Python, Power BI, Tableau, and SQL.
 - 🌱 Exploring Digital Marketing Analytics
