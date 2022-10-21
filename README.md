@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/oluwatobi-n-a8145a79/">
+  <a href="https://www.linkedin.com/in/oluwatobindom/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -28,7 +28,7 @@ I am a budding Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEm
   - My personal website [Oluwatobi Ndom](https://oluwatobindom.github.io/)
   - My tableau projects [Oluwatobi Ndom - Tableau Public](https://public.tableau.com/app/profile/oluwatobi.ndom)
 - 📫 Connect with me: 
-  - Linkedin [![Linkedin Badge](https://img.shields.io/badge/-oluwatobi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatobi-n-a8145a79/)
+  - Linkedin [![Linkedin Badge](https://img.shields.io/badge/-oluwatobi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatobindom/)
   - Email oluwatobindom@gmail.com
 - ⚡ Fun fact:  I'm a big fan of crime detective movies and novels, I enjoy traveling, music and dancing, although the majority of the year, you will find me behind a book.
 
