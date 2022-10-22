@@ -25,7 +25,7 @@ I am a budding Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 Exploring Digital Marketing Analytics
 - 🧐 Take a look at:
   - My portfolio projects [Portfolio Projects Repo.](https://github.com/Tobitoke/PortfolioProjects)
-  - My personal website [Oluwatobi Ndom](https://oluwatobindom.github.io/)
+  - My personal website [Oluwatobi Ndom](https://oluwatobindom.github.io/) (in progress)
   - My tableau projects [Oluwatobi Ndom - Tableau Public](https://public.tableau.com/app/profile/oluwatobi.ndom)
 - 📫 Connect with me: 
   - Linkedin [![Linkedin Badge](https://img.shields.io/badge/-oluwatobi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatobindom/)
