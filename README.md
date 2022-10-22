@@ -4,9 +4,12 @@
 
 
 <h1 align="center">
-   Hi there, I'm Oluwatobi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<h2 align="center">
+ I'm Oluwatobi, a self-taught data analyst  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria
+</h2>
 
 
 <div align="center">
@@ -19,23 +22,31 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a budding Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for turning data into valuable and actionable insights.
+- Administrative/Business Development Professional turned Data Analyst
+- I’m currently deepening my expertise in Python, Power BI, Tableau, and SQL.
+- Exploring Digital Marketing Analytics
 
-- 🔭 I’m currently deepening my expertise in Python, Power BI, Tableau, and SQL.
-- 🌱 Exploring Digital Marketing Analytics
-- 🧐 Take a look at:
+
+🔭Projects
   - My portfolio projects [Portfolio Projects Repo.](https://github.com/Tobitoke/PortfolioProjects)
   - My personal website [Oluwatobi Ndom](https://oluwatobindom.github.io/) (in progress)
   - My tableau projects [Oluwatobi Ndom - Tableau Public](https://public.tableau.com/app/profile/oluwatobi.ndom)
-- 📫 Connect with me: 
+
+
+📫 Connect with me: 
   - Linkedin [![Linkedin Badge](https://img.shields.io/badge/-oluwatobi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatobindom/)
   - Email oluwatobindom@gmail.com
-- ⚡ Fun fact:  I'm a big fan of crime detective movies and novels, I enjoy traveling, music and dancing, although the majority of the year, you will find me behind a book.
-
 
 ---
+🛠 Skills:
+---
 
-### :hammer_and_wrench: Languages and Tools :
+| ◾Technical Skills: |  | |
+| :------------------  |--------| ---- |
+| Data Mining & Cleaning | Data Visualisation   | Data Analysis    |        
+| Relational Databases | Dashboard Design & Development | Report Writing & Presentation|
+
+ ◾Languages and Tools : 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="MSSQL Server"  alt="MSSQL Server" width="100" height="40"/>&nbsp;
@@ -47,9 +58,12 @@ I am a budding Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" title="Numpy" **alt="Numpy" width="100" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" **alt="Matplotlib" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas" **alt="Pandas" width=100" height="40"/>
-</div>
+</div> 
 
-
+---
+⚡ Fun fact:  
+- I'm a big fan of crime detective movies and novels, I enjoy traveling, music and dancing, although the majority of the year, you will find me behind a book.
+- I'm also social services enthusiast, passionate about social welfare programs geared towards assisting the poor, unemployed and marginalized in society in the areas of healthcare, education, poverty alleviation, social justice, child welfare, empowerment, and housing. 
 
 
 
