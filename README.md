@@ -29,7 +29,7 @@
 
 🔭Projects
   - My portfolio projects [Portfolio Projects Repo.](https://github.com/Tobitoke/PortfolioProjects)
-  - My personal website [Oluwatobi Ndom](https://oluwatobindom.github.io/) (in progress)
+  - My personal website [Oluwatobi Ndom](https://oluwatobindom.github.io/)
   - My tableau projects [Oluwatobi Ndom - Tableau Public](https://public.tableau.com/app/profile/oluwatobi.ndom)
 
 
