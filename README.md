@@ -63,7 +63,7 @@
 ---
 ⚡ Fun fact:  
 - I'm a big fan of crime detective movies and novels, I enjoy traveling, music and dancing, although the majority of the year, you will find me behind a book.
-- I'm also social services enthusiast, passionate about social welfare programs geared towards assisting the poor, unemployed and marginalized in society in the areas of healthcare, education, poverty alleviation, social justice, child welfare, empowerment, and housing. 
+- I'm also a social services enthusiast, passionate about social welfare programs geared towards assisting the poor, unemployed and marginalized in society in the areas of healthcare, education, poverty alleviation, social justice, child welfare, empowerment, and housing. 
 
 
 
