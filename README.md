@@ -22,7 +22,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- Administrative/Business Development Professional turned Data Analyst
+- Administrative Professional turned Data Analyst
 - I’m currently deepening my expertise in Python, Power BI, Tableau, and SQL.
 - Exploring Digital Marketing Analytics
 
@@ -40,7 +40,7 @@
 🛠 Skills:
 ---
 
-| ◾Technical Skills: |  | |  |
+ ◾Technical Skills:
 | :------------------  |--------| ---- | ----- |
 | Data Mining & Cleaning | Data Visualisation   | Data Transformation    |   Statistical Modeling |
 | Relational Databases | Dashboard Design & Development | Report Writing & Presentation| Numerical Simulation |
