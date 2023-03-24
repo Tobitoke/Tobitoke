@@ -41,6 +41,7 @@
 ---
 
  ◾Technical Skills:
+| |  | |  |
 | :------------------  |--------| ---- | ----- |
 | Data Mining & Cleaning | Data Visualisation   | Data Transformation    |   Statistical Modeling |
 | Relational Databases | Dashboard Design & Development | Report Writing & Presentation| Numerical Simulation |
