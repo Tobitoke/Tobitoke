@@ -4,12 +4,10 @@
 
 
 <h1 align="center">
-   Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h2 align="center">
- I'm Oluwatobi, a self-taught data analyst  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria
-</h2>
+
 
 
 <div align="center">
