@@ -21,8 +21,8 @@
 
 ### :woman_technologist: About Me :
 - Self-taught Data Analyst
-- I’m currently deepening my expertise in Python, Power BI, Tableau, and SQL.
-- Exploring Digital Marketing Analytics
+- Currently deepening my expertise in Python, Power BI, Tableau, and SQL.
+- Exploring Digital Marketing Analytics and Growth Analytics
 
 
 🔭Projects
